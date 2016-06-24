@@ -117,7 +117,7 @@ font-size: 50px;
 
 }
 .empresas{
-	background-color: #334268;
+	
 	margin-top: -50px;
 
 }
@@ -136,8 +136,19 @@ background-image: url('../img/logoDF.png');background-size: 100% 100%;
 .innochile{
 background-image: url('../img/innovachilecorfo.jpg');background-size: 97% 112%}
 
+.mapita{
+	text-align:center;
+	background-color:#253E7F;;
+	margin-top: -50px;
+	color:white; 
+}
 
-
-
+.mensajesub{
+	color:#E73743;
+}
+.preciobajo{
+	color:#C5EE54;
+	font-weight: bold;
+}
 
 

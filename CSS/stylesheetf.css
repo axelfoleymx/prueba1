@@ -1,0 +1,10 @@
+  html{ background: url('http://www.hdwallpapers.in/walls/icelands_ring_road-wide.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+}
